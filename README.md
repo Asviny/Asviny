@@ -1,12 +1,15 @@
 # Hi, I'm Asviny 👋
 
+## 💻 About Me
 I'm an undergraduate **BIT student** at the **University of Colombo School of Computing (UCSC)**.  
 
 I aspire to become a **Full Stack Developer** and love building web applications that solve real problems.  
 
+Interested in **building full-stack applications** and exploring new technologies
+
 ---
 
-## 💻 Skills
+## 💡 Skills
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
@@ -21,5 +24,9 @@ I aspire to become a **Full Stack Developer** and love building web applications
 </p>
 
 ---
+## 📫 Connect with Me
+- [Gmail](asvinyksingam@gmail.com)  
+ 
+
 
 Thanks for visiting my GitHub profile! 🚀
